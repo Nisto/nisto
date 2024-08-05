@@ -4,10 +4,10 @@ I'm a software developer based in Sweden. You may know me from VGMdb, HCS64, You
 
 Please send me an additional poke at any place of your choice if I should not respond or show signs of activity in any given repository of mine. GitHub notifications do not always work so great! 😕
 
-Due to a recent shortage of work at my place of employment, donations will help me significantly. All of your contributions goes towards essential everyday expenses. Every bit helps! ❤️
+**Due to a recent shortage of work at my place of employment, donations will help me significantly.** All of your contributions goes towards essential everyday expenses. Every bit helps! ❤️
 
-BuyMeACoffee: https://buymeacoffee.com/nisto<br>
-Bitcoin: 18LiBhQzHiwFmTaf2z3zwpLG7ALg7TtYkg
+**BuyMeACoffee:** https://buymeacoffee.com/nisto<br>
+**Bitcoin:** 18LiBhQzHiwFmTaf2z3zwpLG7ALg7TtYkg
 
 - 🔭 I’m currently working on: extractor for Nintendo Puzzle Collection (GC)
 - 🌱 I’m currently learning: Rust (since forever...)
