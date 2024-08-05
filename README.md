@@ -1,4 +1,4 @@
-## Hello, thanks for stopping by my profile 👋
+## Hello and welcome 👋
 
 I'm a software developer based in Sweden. You may know me from VGMdb, HCS64, YouTube, and Silent Hill Heaven among other places.
 
