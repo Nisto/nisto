@@ -2,7 +2,7 @@
 
 I'm a software developer based in Sweden. You may know me from VGMdb, HCS64, YouTube, and Silent Hill Heaven among other places.
 
-Please send me an additional poke at any place of your choice if I should not respond or show signs of activity in any given repository of mine. GitHub notifications do not always work so great! 😕
+If I should not respond or show signs of activity in one of my repositories, please send me another poke at any place of your choice. GitHub notifications do not always work so great! 😕
 
 **Due to a recent shortage of work at my place of employment, donations will help me significantly.** All of your contributions goes towards essential everyday expenses. Every bit helps! ❤️
 
