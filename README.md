@@ -6,7 +6,7 @@ If I should not respond or show signs of activity in one of my repositories, ple
 
 **Due to a recent shortage of work at my place of employment, donations will help me significantly.** All of your contributions goes towards essential everyday expenses. Every bit helps! ❤️
 
-**BuyMeACoffee:** https://buymeacoffee.com/nisto<br>
+**Buy Me a Coffee:** https://buymeacoffee.com/nisto<br>
 **Bitcoin:** 18LiBhQzHiwFmTaf2z3zwpLG7ALg7TtYkg
 
 - 🔭 I’m currently working on: extractor for Nintendo Puzzle Collection (GC)
