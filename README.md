@@ -10,7 +10,7 @@ If I should not respond or show signs of activity in one of my repositories, ple
 **Buy Me a Coffee:** https://buymeacoffee.com/nisto <br>
 **Bitcoin:** 18LiBhQzHiwFmTaf2z3zwpLG7ALg7TtYkg
 
-- 🔭 I’m currently working on: extractor for Nintendo Puzzle Collection (GC)
+- 🔭 I’m currently working on: ?? 🤔
 - 🌱 I’m currently learning: Rust (since forever...)
 - 👯 I’m looking to collaborate on FF7-10 extraction/conversion tools!
 - 🤔 I’m looking for help with: FF7 tempo unit?
